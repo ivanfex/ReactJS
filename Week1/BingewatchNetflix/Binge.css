@@ -1,0 +1,28 @@
+.nowW {
+    position: absolute;
+    bottom: 0;
+    left: 2%;
+}
+.nextW {
+    position: absolute;
+    bottom: 0;
+    right: 2%;
+}
+.leftButton {
+    position: absolute;
+    top: 50%;
+    left: 2%;
+    z-index: 10;
+}
+.rightButton {
+    position: absolute;
+    top: 50%;
+    right: 2%;
+    z-index: 10;
+}
+img {
+    width: 100%;
+}
+body {
+    font-family: sans-serif;
+}
